@@ -3,6 +3,10 @@
 
 This is jQuery widget for connected lists
 
+Bower
+
+    bower i dualbox
+
 Demo
 [http://front-back.net/portfolio/ui/dualbox/](http://front-back.net/portfolio/ui/dualbox/ "Demo")
 
@@ -32,7 +36,7 @@ Markup
 	            </div>
 	
 	            <div data-value="5" class="option">
-	                Clusterization by partial attributes (using normalized Levenshtein distance)
+	                Clusterization by partial attributes (using normalized Levenshtein distance)
 	            </div>
 	
 	        </div>
