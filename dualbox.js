@@ -77,10 +77,6 @@
                 $controller.leftAll.click(function() {
                     move.toSourceAll($dom);
                 });
-
-                $('#dual-mock-check').click(function() {
-                     alert($dom.el.data('value'));
-                });
             };
 
             var init = function ($el){

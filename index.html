@@ -8,6 +8,10 @@
 		$('.dual').dualbox();
 		//экстемально короткое API, чтоб узнать массив выбранных значений или null
 		//$('.dual').data('value');  //null||[val1,val2...]
+		
+		$('#dual-mock-check').click(function() {
+			 alert($('.dual').data('value'));
+		});
 	});
 </script>
 <link rel='stylesheet' type='text/css' href='screen.css' />
