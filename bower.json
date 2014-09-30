@@ -1,0 +1,28 @@
+{
+  "name": "dualbox",
+  "main": "dualbox.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hellfrom/dualbox",
+  "authors": [
+    "Roman Yudin <hrizamer@gmail.com>"
+  ],
+  "description": "jquery widget for connected lists",
+  "keywords": [
+    "connected",
+    "dual",
+    "multiple",
+    "double",
+    "lists"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
